@@ -20,16 +20,6 @@ cd sorting-visualizer
 open index.html
 ```
 
-## Usage
-
-1. Open `index.html` in your browser
-2. Select an algorithm from the dropdown
-3. Choose animation speed (Slow/Medium/Fast)
-4. Click "Generate" to create a new random array
-5. Click "Start" to begin sorting visualization
-6. Use "Pause" to pause/resume and "Reset" to start over
-
-
 
 ## Algorithms Included
 
